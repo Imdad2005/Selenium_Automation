@@ -56,5 +56,6 @@ public class BraveTest {
 	
         // TODO 5: Close the browser safely
 	driver.quit();
+	// practicing Git diff
     }
 }
