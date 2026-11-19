@@ -1,0 +1,15 @@
+# Maven build output
+target/
+
+# Local database
+practice.db
+
+# Generated classpath
+classpath.txt
+
+# Compiled Java files
+*.class
+
+# IDE settings
+.idea/
+.vscode/
